@@ -1,2 +1,2 @@
 # EduBridge_Final_Project
-Priyanka Rajendra Avhad Liver_Patient _Analysis
+Priyanka Rajendra Avhad Project Name- Liver_Patient _Analysis
